@@ -1,15 +1,9 @@
 Hi 👋, I'm amr sayed 
 Software Engineer  /Web Developer
-
-
-
-
-
-
-
 💬 Ask me about  Web Development
 
 
+  
 
 <!---
 Amrsayed02/Amrsayed02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
