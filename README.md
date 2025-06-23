@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Amr Sayed</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
@@ -9,7 +8,7 @@
 - 💼 I’m currently working on Laravel & PHP backend projects  
 - 🌱 I’m currently learning advanced Laravel features & testing  
 - 💬 Ask me about **Laravel, PHP, MySQL, REST APIs**
-- 
+
 ---
 
 ## 🛠️ Languages and Tools
@@ -43,10 +42,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/><br/><sub>Postman</sub>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" width="50" alt="XAMPP"/><br/><sub>XAMPP</sub>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/><br/><sub>Git</sub>
   </a>
@@ -56,22 +51,10 @@
   </a>
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrsayed02&show_icons=true&locale=en" alt="amrsayed02" />
-</p>
-
 ---
 
 ## 📫 How to reach me
 
 - 💌 Email: **amrsayed.dev@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/amrsayed](https://www.linkedin.com/in/amrsayed)
-
-- 💬 Ask me about ** Web Development**
-
-- 📫 How to reach me **amr666145@gmail.com**
-
 
