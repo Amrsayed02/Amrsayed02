@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning advanced Laravel features & testing  
 - 💬 Ask me about **Laravel, PHP, MySQL, REST APIs**
 -    my Portfolio [🌐 Portfolio](https://amrsayed02.github.io/Portfolio/)
+-    
 
 ---
 
@@ -77,5 +78,5 @@
 ## 📫 How to reach me
 
 - 💌 Email: **amr666145@gmail.com**
-- 💼 LinkedIn: (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 💼 LinkedIn: [ LinkedIn](https://www.linkedin.com/in/amr-sayed-abdo-7a4972316/)
 
