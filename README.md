@@ -8,6 +8,7 @@
 - 💼 I’m currently working on Laravel & PHP backend projects  
 - 🌱 I’m currently learning advanced Laravel features & testing  
 - 💬 Ask me about **Laravel, PHP, MySQL, REST APIs**
+- [🌐 Portfolio](https://amrsayed02.github.io/Portfolio/)
 
 ---
 
