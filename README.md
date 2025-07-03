@@ -76,6 +76,6 @@
 
 ## 📫 How to reach me
 
-- 💌 Email: **amrsayed.dev@gmail.com**
+- 💌 Email: **amr666145@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/amrsayed](https://www.linkedin.com/in/amrsayed)
 
