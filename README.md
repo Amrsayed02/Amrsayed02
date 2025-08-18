@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Sayed</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">Junior Back-End Developer (PHP/Laravel)</h3>
 
 ---
 
