@@ -5,10 +5,17 @@
 
 ## 👨‍💻 About Me
 
-- 💼 I’m currently working on Laravel & PHP backend projects  
-- 🌱 I’m currently learning advanced Laravel features & testing  
-- 💬 Ask me about **Laravel, PHP, MySQL, REST APIs**
--    my Portfolio [🌐 Portfolio](https://amrsayed02.github.io/Portfolio/)
+
+
+Backend Developer specializing in PHP and Laravel with hands-on experience building scalable RESTful APIs and authentication systems.
+
+- 🚀 Built 10+ APIs using Laravel for real-world applications  
+- 🔐 Implemented secure authentication using JWT & Laravel Sanctum  
+- 🗄️ Designed and optimized MySQL databases improving performance  
+- ⚡ Focused on clean architecture, performance, and maintainability  
+
+💼 Currently working on backend projects and improving advanced Laravel skills  
+🌐 Portfolio: https://amrsayed02.github.io/Portfolio/
 -    
 
 ---
